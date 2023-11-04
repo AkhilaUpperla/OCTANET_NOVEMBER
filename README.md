@@ -1,2 +1,2 @@
 # OCTANET_NOVEMBER
-Created a Landing page using HTML and CSS
+Created a Landing page using HTML and CSS.
